@@ -207,7 +207,7 @@ const Contact = () => {
                   <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center">
                     <Mail className="w-5 h-5" />
                   </div>
-                  <span>hello@elitetalent.com</span>
+                  <span>hello@coralsearch.com</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center">
@@ -266,7 +266,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-zinc-900 rounded-lg flex items-center justify-center">
                 <Target className="text-white w-5 h-5" />
               </div>
-              <span className="text-lg font-bold tracking-tight text-zinc-900">EliteTalent</span>
+              <span className="text-lg font-bold tracking-tight text-zinc-900">CoralSearch</span>
             </div>
             <p className="text-zinc-500 max-w-sm mb-8">
               Strategic talent acquisition for the world's most innovative organizations. 
@@ -304,7 +304,7 @@ const Footer = () => {
         </div>
         
         <div className="pt-10 border-t border-zinc-100 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-zinc-400">
-          <p>© 2024 Elite Talent Partners. All rights reserved.</p>
+          <p>© 2026 Coral Search. All rights reserved.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-zinc-900 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-zinc-900 transition-colors">Terms of Service</a>
@@ -349,7 +349,7 @@ export default function App() {
               </div>
               
               <div>
-                <h2 className="text-4xl font-bold text-zinc-900 mb-6">Why Organizations Choose Elite Talent Partners</h2>
+                <h2 className="text-4xl font-bold text-zinc-900 mb-6">Why Organizations Choose Coral Search</h2>
                 <p className="text-lg text-zinc-600 mb-8 leading-relaxed">
                   We don't just fill seats; we build legacies. Our methodology combines deep industry insights with advanced behavioral assessment tools to ensure long-term cultural and strategic alignment.
                 </p>
