@@ -30,7 +30,7 @@ const Navbar = () => {
             <div className="w-10 h-10 bg-zinc-900 rounded-xl flex items-center justify-center">
               <Target className="text-white w-6 h-6" />
             </div>
-            <span className="text-xl font-bold tracking-tight text-zinc-900">EliteTalent</span>
+            <span className="text-xl font-bold tracking-tight text-zinc-900">CoralSearch</span>
           </div>
           
           {/* Desktop Nav */}
